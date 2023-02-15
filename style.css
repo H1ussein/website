@@ -648,7 +648,7 @@ body {
   }
 }
 
-@media (max-width: 690px) and (min-width: 500px) {
+@media (max-width: 690px) and (min-width: 300px) {
   .contain .navbar {
     width: 93%;
   }

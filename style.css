@@ -655,7 +655,7 @@ body {
     display: flex;
   }
   .contain .navbar .navbar-nav .navbar-items {
-    width: 55%;
+    width: 90%;
     background-color: rgba(0, 0, 0, 0.6);
     position: absolute;
     z-index: 444;
